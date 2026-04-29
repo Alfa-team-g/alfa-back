@@ -10,13 +10,24 @@ function getRequiredEnv(name) {
     }
     return value;
 }
+function normalizePrivateKey(rawValue) {
+    let value = rawValue.trim();
+    // Remove accidental wrapping quotes from secret managers.
+    value = value.replace(/^['"]|['"]$/g, "");
+    // Support both multiline and escaped newline formats.
+    value = value.replace(/\\n/g, "\n");
+    return value;
+}
 function getFirebaseApp() {
     if ((0, app_1.getApps)().length > 0) {
         return (0, app_1.getApps)()[0];
     }
     const projectId = getRequiredEnv("FIREBASE_PROJECT_ID");
     const clientEmail = getRequiredEnv("FIREBASE_CLIENT_EMAIL");
-    const privateKey = getRequiredEnv("FIREBASE_PRIVATE_KEY").replace(/\\n/g, "\n");
+    const privateKey = normalizePrivateKey(getRequiredEnv("FIREBASE_PRIVATE_KEY"));
+    if (!privateKey.includes("-----BEGIN PRIVATE KEY-----")) {
+        throw new Error("FIREBASE_PRIVATE_KEY is malformed: missing BEGIN PRIVATE KEY header");
+    }
     return (0, app_1.initializeApp)({
         credential: (0, app_1.cert)({
             projectId,
