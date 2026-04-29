@@ -9,14 +9,14 @@ on:
       force_alert:
         description: "Forcar envio de alerta no Telegram"
         required: false
-        default: false
-        type: boolean
+        default: "false"
 
 jobs:
   run-monitor:
     runs-on: ubuntu-latest
     permissions:
       contents: read
+
     env:
       FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
       FIREBASE_CLIENT_EMAIL: ${{ secrets.FIREBASE_CLIENT_EMAIL }}
@@ -46,7 +46,7 @@ jobs:
       - name: Rodar monitor manual
         if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
-          if [ "${{ inputs.force_alert }}" = "true" ]; then
+          if [ "${{ github.event.inputs.force_alert }}" = "true" ]; then
             npm run monitor -- --force-alert
           else
             npm run monitor
