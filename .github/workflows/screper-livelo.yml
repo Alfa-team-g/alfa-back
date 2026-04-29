@@ -1,0 +1,53 @@
+name: Screper Livelo Monitor
+
+on:
+  schedule:
+    # 10:00 BRT (UTC-3) = 13:00 UTC
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+    inputs:
+      force_alert:
+        description: "Forcar envio de alerta no Telegram"
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  run-monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    env:
+      FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
+      FIREBASE_CLIENT_EMAIL: ${{ secrets.FIREBASE_CLIENT_EMAIL }}
+      FIREBASE_PRIVATE_KEY: ${{ secrets.FIREBASE_PRIVATE_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      LIVELO_PARTNERS_URL: ${{ secrets.LIVELO_PARTNERS_URL }}
+
+    steps:
+      - name: Checkout do codigo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: package-lock.json
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Rodar monitor diario
+        if: ${{ github.event_name == 'schedule' }}
+        run: npm run monitor
+
+      - name: Rodar monitor manual
+        if: ${{ github.event_name == 'workflow_dispatch' }}
+        run: |
+          if [ "${{ inputs.force_alert }}" = "true" ]; then
+            npm run monitor -- --force-alert
+          else
+            npm run monitor
+          fi

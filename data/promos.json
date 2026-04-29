@@ -1,0 +1,2852 @@
+{
+  "lastUpdated": "2026-04-29T00:29:59.801Z",
+  "promos": [
+    {
+      "loja": "Shopee",
+      "atual": 2,
+      "promo": true,
+      "detalhesPromo": [
+        "até 2 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Shopee&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Casas Bahia",
+      "atual": 5,
+      "promo": true,
+      "detalhesPromo": [
+        "5 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 5,
+      "imageUrl": "https://partners-profile.livelo.com.br/csb/image.jpeg",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Magalu",
+      "atual": 3,
+      "promo": true,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Magalu&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Mercado Livre",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Mercado%20Livre&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Fast Shop",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "até 2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Fast%20Shop&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Renner",
+      "atual": 10,
+      "promo": true,
+      "detalhesPromo": [
+        "10 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=Renner&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Carrefour Mercado",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Carrefour%20Mercado&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Booking com",
+      "atual": 4,
+      "promo": false,
+      "detalhesPromo": [
+        "4 ponto(s) por U$ 1"
+      ],
+      "anterior": 4,
+      "imageUrl": "https://ui-avatars.com/api/?name=Booking%20com&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Beleza na web",
+      "atual": 7,
+      "promo": true,
+      "detalhesPromo": [
+        "até 7 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 7,
+      "imageUrl": "https://ui-avatars.com/api/?name=Beleza%20na%20web&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Decolar",
+      "atual": 6,
+      "promo": false,
+      "detalhesPromo": [
+        "até 6 ponto(s) por U$ 1"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=Decolar&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "CEA",
+      "atual": 6,
+      "promo": true,
+      "detalhesPromo": [
+        "6 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://partners-profile.livelo.com.br/cea/image.jpeg",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Extra",
+      "atual": 5,
+      "promo": true,
+      "detalhesPromo": [
+        "5 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 5,
+      "imageUrl": "https://ui-avatars.com/api/?name=Extra&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Natura",
+      "atual": 15,
+      "promo": true,
+      "detalhesPromo": [
+        "15 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 15,
+      "imageUrl": "https://ui-avatars.com/api/?name=Natura&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Hoteis com",
+      "atual": 4,
+      "promo": true,
+      "detalhesPromo": [
+        "4 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 4,
+      "imageUrl": "https://ui-avatars.com/api/?name=Hoteis%20com&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "O Boticario",
+      "atual": 6,
+      "promo": true,
+      "detalhesPromo": [
+        "6 ponto(s) por R$ 1 (eram 3 ponto(s))"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=O%20Boticario&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Netshoes",
+      "atual": 6,
+      "promo": true,
+      "detalhesPromo": [
+        "até 6 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=Netshoes&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Riachuelo",
+      "atual": 6,
+      "promo": true,
+      "detalhesPromo": [
+        "6 ponto(s) por R$ 1 (eram 3 ponto(s))"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=Riachuelo&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Farmacias App",
+      "atual": 6,
+      "promo": true,
+      "detalhesPromo": [
+        "4 ponto(s) por R$ 1 (eram 1 ponto(s))",
+        "clube 6 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=Farmacias%20App&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Centauro",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Centauro&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Aliexpress",
+      "atual": 20,
+      "promo": true,
+      "detalhesPromo": [
+        "15 ponto(s) por U$ 1 (eram 1 ponto(s))",
+        "clube 20 ponto(s) por U$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 20,
+      "imageUrl": "https://ui-avatars.com/api/?name=Aliexpress&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Petlove",
+      "atual": 10,
+      "promo": true,
+      "detalhesPromo": [
+        "até 10 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=Petlove&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Insider Store",
+      "atual": 12,
+      "promo": true,
+      "detalhesPromo": [
+        "até 12 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 12,
+      "imageUrl": "https://ui-avatars.com/api/?name=Insider%20Store&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Drogaria Sao Paulo",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Drogaria%20Sao%20Paulo&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Carrefour Shopping",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Carrefour%20Shopping&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Camicado",
+      "atual": 10,
+      "promo": true,
+      "detalhesPromo": [
+        "10 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=Camicado&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Petz",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Petz&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Nike",
+      "atual": 8,
+      "promo": true,
+      "detalhesPromo": [
+        "até 8 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 8,
+      "imageUrl": "https://ui-avatars.com/api/?name=Nike&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Drogarias Pacheco",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Drogarias%20Pacheco&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Localiza",
+      "atual": 4,
+      "promo": false,
+      "detalhesPromo": [
+        "4 ponto(s) por R$ 1"
+      ],
+      "anterior": 4,
+      "imageUrl": "https://ui-avatars.com/api/?name=Localiza&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Hering",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Hering&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Sam's Club",
+      "atual": 14,
+      "promo": false,
+      "detalhesPromo": [
+        "14 ponto(s) por R$ 1"
+      ],
+      "anterior": 14,
+      "imageUrl": "https://ui-avatars.com/api/?name=Sam's%20Club&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Dafiti",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Dafiti&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Época Cosméticos",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=%C3%89poca%20Cosm%C3%A9ticos&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "ClickBus",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=ClickBus&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Avon",
+      "atual": 6,
+      "promo": false,
+      "detalhesPromo": [
+        "até 6 ponto(s) por R$ 1"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=Avon&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Sephora",
+      "atual": 6,
+      "promo": true,
+      "detalhesPromo": [
+        "6 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=Sephora&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Eudora",
+      "atual": 7,
+      "promo": true,
+      "detalhesPromo": [
+        "até 7 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 7,
+      "imageUrl": "https://ui-avatars.com/api/?name=Eudora&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Decathlon",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "até 2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Decathlon&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Movida",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Movida&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Midea",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Midea&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Claro",
+      "atual": 6,
+      "promo": false,
+      "detalhesPromo": [
+        "6 ponto(s) por R$ 1"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=Claro&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Sam's Club E commerce",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "até 1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Sam's%20Club%20E%20commerce&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "LIVE!",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=LIVE!&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Angeloni",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Angeloni&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Havaianas",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Havaianas&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "ABC da Construcao",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=ABC%20da%20Construcao&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Reserva",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Reserva&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Rentcars",
+      "atual": 5,
+      "promo": false,
+      "detalhesPromo": [
+        "5 ponto(s) por U$ 1"
+      ],
+      "anterior": 5,
+      "imageUrl": "https://ui-avatars.com/api/?name=Rentcars&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Olympikus",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Olympikus&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "AMOBELEZA",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=AMOBELEZA&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Kabum!",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Kabum!&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "ADCOS",
+      "atual": 10,
+      "promo": true,
+      "detalhesPromo": [
+        "10 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=ADCOS&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Beto Carrero World",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Beto%20Carrero%20World&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Hope",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1",
+        "clube 3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Hope&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Buser",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "até 2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Buser&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Consorcio Magalu",
+      "atual": 35,
+      "promo": true,
+      "detalhesPromo": [
+        "até 35 ponto(s) por R$ 1 (eram 6 ponto(s))"
+      ],
+      "anterior": 35,
+      "imageUrl": "https://ui-avatars.com/api/?name=Consorcio%20Magalu&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Coffee Mais",
+      "atual": 11,
+      "promo": true,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1 (eram 3 ponto(s))",
+        "clube 11 ponto(s) por R$ 1 (eram 3 ponto(s))"
+      ],
+      "anterior": 11,
+      "imageUrl": "https://ui-avatars.com/api/?name=Coffee%20Mais&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Beleza na Web PRO",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "até 3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Beleza%20na%20Web%20PRO&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Globoplay",
+      "atual": 10,
+      "promo": true,
+      "detalhesPromo": [
+        "10 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=Globoplay&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Crocs",
+      "atual": 7,
+      "promo": true,
+      "detalhesPromo": [
+        "7 ponto(s) por R$ 1 (eram 3 ponto(s))"
+      ],
+      "anterior": 7,
+      "imageUrl": "https://ui-avatars.com/api/?name=Crocs&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Abelha Rainha",
+      "atual": 10,
+      "promo": true,
+      "detalhesPromo": [
+        "10 ponto(s) por R$ 1 (eram 3 ponto(s))"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=Abelha%20Rainha&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Mizuno",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Mizuno&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Unidas",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Unidas&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Granado",
+      "atual": 10,
+      "promo": true,
+      "detalhesPromo": [
+        "8 ponto(s) por R$ 1 (eram 1 ponto(s))",
+        "clube 10 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=Granado&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Aramis",
+      "atual": 5,
+      "promo": true,
+      "detalhesPromo": [
+        "5 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 5,
+      "imageUrl": "https://ui-avatars.com/api/?name=Aramis&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Bagaggio",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Bagaggio&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "TIM",
+      "atual": 6,
+      "promo": false,
+      "detalhesPromo": [
+        "6 ponto(s) por R$ 1"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=TIM&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Vivara",
+      "atual": 8,
+      "promo": true,
+      "detalhesPromo": [
+        "até 6 ponto(s) por R$ 1 (eram 1 ponto(s))",
+        "clube até 8 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 8,
+      "imageUrl": "https://ui-avatars.com/api/?name=Vivara&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Posthaus",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Posthaus&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Assist Card Seguro Viagem",
+      "atual": 12,
+      "promo": true,
+      "detalhesPromo": [
+        "12 ponto(s) por R$ 1 (eram 10 ponto(s))"
+      ],
+      "anterior": 12,
+      "imageUrl": "https://ui-avatars.com/api/?name=Assist%20Card%20Seguro%20Viagem&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Under Armour",
+      "atual": 7,
+      "promo": true,
+      "detalhesPromo": [
+        "5 ponto(s) por R$ 1 (eram 1 ponto(s))",
+        "clube 7 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 7,
+      "imageUrl": "https://ui-avatars.com/api/?name=Under%20Armour&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Asics",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Asics&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Morana",
+      "atual": 10,
+      "promo": true,
+      "detalhesPromo": [
+        "8 ponto(s) por R$ 1 (eram 3 ponto(s))",
+        "clube 10 ponto(s) por R$ 1 (eram 3 ponto(s))"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=Morana&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Quem Disse, Berenice?",
+      "atual": 7,
+      "promo": true,
+      "detalhesPromo": [
+        "até 7 ponto(s) por R$ 1 (eram 3 ponto(s))"
+      ],
+      "anterior": 7,
+      "imageUrl": "https://ui-avatars.com/api/?name=Quem%20Disse%2C%20Berenice%3F&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Loungerie",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Loungerie&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Max Titanium",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Max%20Titanium&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Go case",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "até 2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Go%20case&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Allianz",
+      "atual": 4,
+      "promo": false,
+      "detalhesPromo": [
+        "4 ponto(s) por R$ 1"
+      ],
+      "anterior": 4,
+      "imageUrl": "https://ui-avatars.com/api/?name=Allianz&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "New Balance",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=New%20Balance&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Loccitane au Bresil",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Loccitane%20au%20Bresil&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Rentalcars",
+      "atual": 6,
+      "promo": false,
+      "detalhesPromo": [
+        "6 ponto(s) por U$ 1"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=Rentalcars&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Bibi",
+      "atual": 8,
+      "promo": true,
+      "detalhesPromo": [
+        "até 8 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 8,
+      "imageUrl": "https://ui-avatars.com/api/?name=Bibi&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Puket",
+      "atual": 5,
+      "promo": true,
+      "detalhesPromo": [
+        "4 ponto(s) por R$ 1 (eram 1 ponto(s))",
+        "clube 5 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 5,
+      "imageUrl": "https://ui-avatars.com/api/?name=Puket&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Mondaine",
+      "atual": 15,
+      "promo": true,
+      "detalhesPromo": [
+        "até 12 ponto(s) por R$ 1 (eram 2 ponto(s))",
+        "clube até 15 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 15,
+      "imageUrl": "https://ui-avatars.com/api/?name=Mondaine&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Dudalina",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Dudalina&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Beep",
+      "atual": 7,
+      "promo": true,
+      "detalhesPromo": [
+        "até 7 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 7,
+      "imageUrl": "https://ui-avatars.com/api/?name=Beep&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Democrata",
+      "atual": 6,
+      "promo": true,
+      "detalhesPromo": [
+        "4 ponto(s) por R$ 1 (eram 2 ponto(s))",
+        "clube 6 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=Democrata&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Fila",
+      "atual": 5,
+      "promo": true,
+      "detalhesPromo": [
+        "5 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 5,
+      "imageUrl": "https://ui-avatars.com/api/?name=Fila&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Colcci",
+      "atual": 5,
+      "promo": true,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1 (eram 2 ponto(s))",
+        "clube 5 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 5,
+      "imageUrl": "https://ui-avatars.com/api/?name=Colcci&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "LE LIS",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=LE%20LIS&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Converse",
+      "atual": 8,
+      "promo": true,
+      "detalhesPromo": [
+        "4 ponto(s) por R$ 1 (eram 2 ponto(s))",
+        "clube 8 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 8,
+      "imageUrl": "https://ui-avatars.com/api/?name=Converse&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "PneuStore",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=PneuStore&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Truss",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Truss&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "elbo",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=elbo&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Seculus",
+      "atual": 15,
+      "promo": true,
+      "detalhesPromo": [
+        "até 12 ponto(s) por R$ 1 (eram 2 ponto(s))",
+        "clube até 15 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 15,
+      "imageUrl": "https://ui-avatars.com/api/?name=Seculus&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "SulAmérica Seguro Viagem",
+      "atual": 14,
+      "promo": true,
+      "detalhesPromo": [
+        "14 ponto(s) por R$ 1 (eram 10 ponto(s))"
+      ],
+      "anterior": 14,
+      "imageUrl": "https://ui-avatars.com/api/?name=SulAm%C3%A9rica%20Seguro%20Viagem&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Samsonite",
+      "atual": 10,
+      "promo": true,
+      "detalhesPromo": [
+        "até 10 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=Samsonite&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Vult",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Vult&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Loccitane",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Loccitane&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Faber Castell",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Faber%20Castell&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Easy Live",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Easy%20Live&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Zee.Dog",
+      "atual": 4,
+      "promo": true,
+      "detalhesPromo": [
+        "até 4 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 4,
+      "imageUrl": "https://ui-avatars.com/api/?name=Zee.Dog&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Malwee",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Malwee&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Osklen",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Osklen&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Zattini",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Zattini&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "EDP",
+      "atual": 6,
+      "promo": false,
+      "detalhesPromo": [
+        "6 ponto(s) por R$ 1"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=EDP&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "BO.BÔ",
+      "atual": 8,
+      "promo": true,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1 (eram 3 ponto(s))",
+        "clube 8 ponto(s) por R$ 1 (eram 3 ponto(s))"
+      ],
+      "anterior": 8,
+      "imageUrl": "https://ui-avatars.com/api/?name=BO.B%C3%94&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Foco",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Foco&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Mistral",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Mistral&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Dr Jones",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Dr%20Jones&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Tokio Marine Seguros",
+      "atual": 10,
+      "promo": false,
+      "detalhesPromo": [
+        "10 ponto(s) por R$ 1"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=Tokio%20Marine%20Seguros&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Seus Ingressos",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Seus%20Ingressos&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Ciclic Seguro Viagem",
+      "atual": 15,
+      "promo": true,
+      "detalhesPromo": [
+        "15 ponto(s) por R$ 1 (eram 8 ponto(s))"
+      ],
+      "anterior": 15,
+      "imageUrl": "https://ui-avatars.com/api/?name=Ciclic%20Seguro%20Viagem&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Seguro Viagem Bradesco",
+      "atual": 10,
+      "promo": false,
+      "detalhesPromo": [
+        "10 ponto(s) por R$ 1"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=Seguro%20Viagem%20Bradesco&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Kaligo",
+      "atual": 15,
+      "promo": false,
+      "detalhesPromo": [
+        "até 15 ponto(s) por U$ 1"
+      ],
+      "anterior": 15,
+      "imageUrl": "https://ui-avatars.com/api/?name=Kaligo&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Localiza Meoo",
+      "atual": 4,
+      "promo": false,
+      "detalhesPromo": [
+        "4 ponto(s) por R$ 1"
+      ],
+      "anterior": 4,
+      "imageUrl": "https://ui-avatars.com/api/?name=Localiza%20Meoo&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Guess",
+      "atual": 10,
+      "promo": true,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1 (eram 2 ponto(s))",
+        "clube 10 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=Guess&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Estoque",
+      "atual": 6,
+      "promo": true,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1 (eram 3 ponto(s))",
+        "clube 6 ponto(s) por R$ 1 (eram 3 ponto(s))"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=Estoque&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Café Orfeu",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Caf%C3%A9%20Orfeu&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Basicamente",
+      "atual": 4,
+      "promo": false,
+      "detalhesPromo": [
+        "4 ponto(s) por R$ 1"
+      ],
+      "anterior": 4,
+      "imageUrl": "https://ui-avatars.com/api/?name=Basicamente&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Tia Sônia",
+      "atual": 10,
+      "promo": true,
+      "detalhesPromo": [
+        "8 ponto(s) por R$ 1 (eram 3 ponto(s))",
+        "clube 10 ponto(s) por R$ 1 (eram 3 ponto(s))"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=Tia%20S%C3%B4nia&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "John John",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=John%20John&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "O.U.i Paris",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=O.U.i%20Paris&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Gazin",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Gazin&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Imaginarium",
+      "atual": 3,
+      "promo": true,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1 (eram 1 ponto(s))",
+        "clube 3 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Imaginarium&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Forever Liss",
+      "atual": 11,
+      "promo": true,
+      "detalhesPromo": [
+        "8 ponto(s) por R$ 1 (eram 2 ponto(s))",
+        "clube 11 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 11,
+      "imageUrl": "https://ui-avatars.com/api/?name=Forever%20Liss&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Oceane",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Oceane&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Probiótica",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Probi%C3%B3tica&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Quero Passagem",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Quero%20Passagem&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Mycon Consórcio Digital",
+      "atual": 32,
+      "promo": false,
+      "detalhesPromo": [
+        "até 32 ponto(s) por R$ 1"
+      ],
+      "anterior": 32,
+      "imageUrl": "https://ui-avatars.com/api/?name=Mycon%20Cons%C3%B3rcio%20Digital&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Hertz Internacional",
+      "atual": 6,
+      "promo": false,
+      "detalhesPromo": [
+        "6 ponto(s) por U$ 1"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=Hertz%20Internacional&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Lacoste",
+      "atual": 5,
+      "promo": true,
+      "detalhesPromo": [
+        "5 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 5,
+      "imageUrl": "https://ui-avatars.com/api/?name=Lacoste&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Beach Park Hospedagens",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Beach%20Park%20Hospedagens&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Technos",
+      "atual": 10,
+      "promo": true,
+      "detalhesPromo": [
+        "8 ponto(s) por R$ 1 (eram 2 ponto(s))",
+        "clube 10 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=Technos&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Mobills",
+      "atual": 10,
+      "promo": false,
+      "detalhesPromo": [
+        "10 ponto(s) por R$ 1"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=Mobills&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Supernosso",
+      "atual": 0.3333333333333333,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 3"
+      ],
+      "anterior": 0.3333333333333333,
+      "imageUrl": "https://ui-avatars.com/api/?name=Supernosso&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Liz",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Liz&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Beach Park Ingressos",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Beach%20Park%20Ingressos&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Meia Sola",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Meia%20Sola&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Frigelar",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Frigelar&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Mobly",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Mobly&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Buddha Spa",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Buddha%20Spa&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Hope Resort",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Hope%20Resort&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Studio Z",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Studio%20Z&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Portallar",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Portallar&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Mevo Farma",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Mevo%20Farma&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Bulbe Energia",
+      "atual": 12,
+      "promo": false,
+      "detalhesPromo": [
+        "12 ponto(s) por R$ 1"
+      ],
+      "anterior": 12,
+      "imageUrl": "https://ui-avatars.com/api/?name=Bulbe%20Energia&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Liga Vitória Consórcio",
+      "atual": 85,
+      "promo": true,
+      "detalhesPromo": [
+        "até 85 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 85,
+      "imageUrl": "https://ui-avatars.com/api/?name=Liga%20Vit%C3%B3ria%20Cons%C3%B3rcio&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Coris",
+      "atual": 5,
+      "promo": false,
+      "detalhesPromo": [
+        "5 ponto(s) por R$ 1"
+      ],
+      "anterior": 5,
+      "imageUrl": "https://ui-avatars.com/api/?name=Coris&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Salinas",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Salinas&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Monte Carlo",
+      "atual": 6,
+      "promo": true,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1 (eram 2 ponto(s))",
+        "clube 6 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=Monte%20Carlo&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Individual",
+      "atual": 6,
+      "promo": true,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1 (eram 2 ponto(s))",
+        "clube 6 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=Individual&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Bombay Herbs & Spices",
+      "atual": 8,
+      "promo": true,
+      "detalhesPromo": [
+        "até 6 ponto(s) por R$ 1 (eram 2 ponto(s))",
+        "clube até 8 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 8,
+      "imageUrl": "https://ui-avatars.com/api/?name=Bombay%20Herbs%20%26%20Spices&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Localiza Internacional",
+      "atual": 5,
+      "promo": false,
+      "detalhesPromo": [
+        "5 ponto(s) por U$ 1"
+      ],
+      "anterior": 5,
+      "imageUrl": "https://ui-avatars.com/api/?name=Localiza%20Internacional&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Cestas Michelli",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Cestas%20Michelli&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Giuliana Flores",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Giuliana%20Flores&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Caffeine Army",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Caffeine%20Army&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Speedo",
+      "atual": 4,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1",
+        "clube 4 ponto(s) por R$ 1"
+      ],
+      "anterior": 4,
+      "imageUrl": "https://ui-avatars.com/api/?name=Speedo&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Divvino",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Divvino&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Cartão de Todos",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "até 2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Cart%C3%A3o%20de%20Todos&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Fóssil",
+      "atual": 10,
+      "promo": true,
+      "detalhesPromo": [
+        "8 ponto(s) por R$ 1 (eram 2 ponto(s))",
+        "clube 10 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=F%C3%B3ssil&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Hot Beach",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Hot%20Beach&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Ellus",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Ellus&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "avis",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=avis&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Agaxtur Cruzeiros",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Agaxtur%20Cruzeiros&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Basico.com",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Basico.com&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Pura Vida",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Pura%20Vida&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "TripChip",
+      "atual": 5,
+      "promo": false,
+      "detalhesPromo": [
+        "5 ponto(s) por R$ 1"
+      ],
+      "anterior": 5,
+      "imageUrl": "https://ui-avatars.com/api/?name=TripChip&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Horas Magicas",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Horas%20Magicas&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Viajar",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Viajar&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Euro",
+      "atual": 6,
+      "promo": true,
+      "detalhesPromo": [
+        "4 ponto(s) por R$ 1 (eram 1 ponto(s))",
+        "clube 6 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=Euro&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Porto Seguro",
+      "atual": 8,
+      "promo": false,
+      "detalhesPromo": [
+        "até 8 ponto(s) por R$ 1"
+      ],
+      "anterior": 8,
+      "imageUrl": "https://ui-avatars.com/api/?name=Porto%20Seguro&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "MedSênior",
+      "atual": 7,
+      "promo": false,
+      "detalhesPromo": [
+        "7 ponto(s) por R$ 1"
+      ],
+      "anterior": 7,
+      "imageUrl": "https://ui-avatars.com/api/?name=MedS%C3%AAnior&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Zee.Now",
+      "atual": 4,
+      "promo": true,
+      "detalhesPromo": [
+        "até 4 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 4,
+      "imageUrl": "https://ui-avatars.com/api/?name=Zee.Now&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Embracon",
+      "atual": 22,
+      "promo": true,
+      "detalhesPromo": [
+        "22 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 22,
+      "imageUrl": "https://ui-avatars.com/api/?name=Embracon&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Shoestock",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Shoestock&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Piatan Natural",
+      "atual": 10,
+      "promo": true,
+      "detalhesPromo": [
+        "8 ponto(s) por R$ 1 (eram 3 ponto(s))",
+        "clube 10 ponto(s) por R$ 1 (eram 3 ponto(s))"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=Piatan%20Natural&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Umbro",
+      "atual": 5,
+      "promo": true,
+      "detalhesPromo": [
+        "5 ponto(s) por R$ 1 (eram 2 ponto(s))"
+      ],
+      "anterior": 5,
+      "imageUrl": "https://ui-avatars.com/api/?name=Umbro&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "LEGO",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=LEGO&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Grupo Dreams",
+      "atual": 4,
+      "promo": false,
+      "detalhesPromo": [
+        "4 ponto(s) por R$ 1"
+      ],
+      "anterior": 4,
+      "imageUrl": "https://ui-avatars.com/api/?name=Grupo%20Dreams&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Hering Outlet",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Hering%20Outlet&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Budget",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Budget&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Richards",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Richards&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "SulAmérica Plano Odonto",
+      "atual": 6,
+      "promo": false,
+      "detalhesPromo": [
+        "6 ponto(s) por R$ 1"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=SulAm%C3%A9rica%20Plano%20Odonto&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Bradesco Capitalização",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Bradesco%20Capitaliza%C3%A7%C3%A3o&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Universal Assistance Seguro Viagem",
+      "atual": 10,
+      "promo": true,
+      "detalhesPromo": [
+        "10 ponto(s) por R$ 1 (eram 6 ponto(s))"
+      ],
+      "anterior": 10,
+      "imageUrl": "https://ui-avatars.com/api/?name=Universal%20Assistance%20Seguro%20Viagem&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Summerville",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Summerville&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Dufrio",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Dufrio&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Travelex",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por U$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Travelex&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "ACER",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=ACER&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Nars",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Nars&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Petlove Saúde",
+      "atual": 50,
+      "promo": true,
+      "detalhesPromo": [
+        "até 30 ponto(s) por R$ 1 (eram 6 ponto(s))",
+        "clube até 50 ponto(s) por R$ 1 (eram 6 ponto(s))"
+      ],
+      "anterior": 50,
+      "imageUrl": "https://ui-avatars.com/api/?name=Petlove%20Sa%C3%BAde&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Baianão",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Baian%C3%A3o&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Quintess",
+      "atual": 5,
+      "promo": true,
+      "detalhesPromo": [
+        "4 ponto(s) por R$ 1 (eram 3 ponto(s))",
+        "clube 5 ponto(s) por R$ 1 (eram 3 ponto(s))"
+      ],
+      "anterior": 5,
+      "imageUrl": "https://ui-avatars.com/api/?name=Quintess&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Alura",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Alura&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Shiseido",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Shiseido&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Ciclic Seguro Celular",
+      "atual": 5,
+      "promo": true,
+      "detalhesPromo": [
+        "5 ponto(s) por R$ 1 (eram 4 ponto(s))"
+      ],
+      "anterior": 5,
+      "imageUrl": "https://ui-avatars.com/api/?name=Ciclic%20Seguro%20Celular&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Beyoung",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Beyoung&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Oxford",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Oxford&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Estapar",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Estapar&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Bobstore",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Bobstore&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Luxury Loyalty",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Luxury%20Loyalty&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Zissou",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Zissou&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Portal das Malas",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Portal%20das%20Malas&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Chip eSim Travalex",
+      "atual": 20,
+      "promo": false,
+      "detalhesPromo": [
+        "20 ponto(s) por U$ 1"
+      ],
+      "anterior": 20,
+      "imageUrl": "https://ui-avatars.com/api/?name=Chip%20eSim%20Travalex&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Yvy",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Yvy&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Cabana Magazine",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "até 1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Cabana%20Magazine&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Reservecar",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Reservecar&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Thule",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Thule&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Qcompra",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Qcompra&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Sixt",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Sixt&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "MAPFRE Seguro Auto",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=MAPFRE%20Seguro%20Auto&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "HERO SEGURO VIAGEM",
+      "atual": 5,
+      "promo": false,
+      "detalhesPromo": [
+        "5 ponto(s) por R$ 1"
+      ],
+      "anterior": 5,
+      "imageUrl": "https://ui-avatars.com/api/?name=HERO%20SEGURO%20VIAGEM&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "VR Collezioni",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=VR%20Collezioni&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Coliseu",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Coliseu&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Quero Quero",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Quero%20Quero&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Bankei",
+      "atual": 0.4,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 5"
+      ],
+      "anterior": 0.4,
+      "imageUrl": "https://ui-avatars.com/api/?name=Bankei&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Dako",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Dako&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Cook Eletroraro",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Cook%20Eletroraro&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Mobifácil",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Mobif%C3%A1cil&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Wise UP",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Wise%20UP&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Klubi Viagem",
+      "atual": 50,
+      "promo": true,
+      "detalhesPromo": [
+        "50 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 50,
+      "imageUrl": "https://ui-avatars.com/api/?name=Klubi%20Viagem&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Câmbio Online",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por U$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=C%C3%A2mbio%20Online&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Trocafy",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1",
+        "clube 2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Trocafy&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Top Móveis",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Top%20M%C3%B3veis&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Spicy",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Spicy&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Klubi Auto",
+      "atual": 50,
+      "promo": true,
+      "detalhesPromo": [
+        "50 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 50,
+      "imageUrl": "https://ui-avatars.com/api/?name=Klubi%20Auto&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Klabin ForYou",
+      "atual": 6,
+      "promo": true,
+      "detalhesPromo": [
+        "6 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=Klabin%20ForYou&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Next Seguro Viagem",
+      "atual": 15,
+      "promo": false,
+      "detalhesPromo": [
+        "15 ponto(s) por R$ 1"
+      ],
+      "anterior": 15,
+      "imageUrl": "https://ui-avatars.com/api/?name=Next%20Seguro%20Viagem&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Guldi",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Guldi&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Creditas",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Creditas&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Maltacor",
+      "atual": 5,
+      "promo": false,
+      "detalhesPromo": [
+        "5 ponto(s) por R$ 1"
+      ],
+      "anterior": 5,
+      "imageUrl": "https://ui-avatars.com/api/?name=Maltacor&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Pado",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Pado&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Liga Vitória Seguro Auto",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Liga%20Vit%C3%B3ria%20Seguro%20Auto&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Hero Seguro Celular",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Hero%20Seguro%20Celular&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Liga Vitória Seguro de Viagem",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Liga%20Vit%C3%B3ria%20Seguro%20de%20Viagem&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "PerfectDraft (Ambev)",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "até 1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=PerfectDraft%20(Ambev)&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Universal Music",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Universal%20Music&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Sioux Seguro Celular",
+      "atual": 4,
+      "promo": false,
+      "detalhesPromo": [
+        "4 ponto(s) por R$ 1"
+      ],
+      "anterior": 4,
+      "imageUrl": "https://ui-avatars.com/api/?name=Sioux%20Seguro%20Celular&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "MaxRacer",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=MaxRacer&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Home Angels",
+      "atual": 0.1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 10"
+      ],
+      "anterior": 0.1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Home%20Angels&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Oficina",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Oficina&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Liga Vitória Seguro Residencial",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Liga%20Vit%C3%B3ria%20Seguro%20Residencial&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Klubi Imóvel",
+      "atual": 50,
+      "promo": true,
+      "detalhesPromo": [
+        "50 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 50,
+      "imageUrl": "https://ui-avatars.com/api/?name=Klubi%20Im%C3%B3vel&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Seguro Residencial MAPFRE",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Seguro%20Residencial%20MAPFRE&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Urban",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Urban&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Suhai Seguradora",
+      "atual": 2,
+      "promo": false,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Suhai%20Seguradora&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Klubi Moto",
+      "atual": 50,
+      "promo": true,
+      "detalhesPromo": [
+        "50 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 50,
+      "imageUrl": "https://ui-avatars.com/api/?name=Klubi%20Moto&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Liga Vitória Seguro Moto",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Liga%20Vit%C3%B3ria%20Seguro%20Moto&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Liga Vitória Seguro de Vida",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Liga%20Vit%C3%B3ria%20Seguro%20de%20Vida&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Assinatura Coffee Mais",
+      "atual": 6,
+      "promo": false,
+      "detalhesPromo": [
+        "6 ponto(s) por R$ 1"
+      ],
+      "anterior": 6,
+      "imageUrl": "https://ui-avatars.com/api/?name=Assinatura%20Coffee%20Mais&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Bradesco Capitalização Max Prêmios Torcida PU",
+      "atual": 2,
+      "promo": true,
+      "detalhesPromo": [
+        "2 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 2,
+      "imageUrl": "https://ui-avatars.com/api/?name=Bradesco%20Capitaliza%C3%A7%C3%A3o%20Max%20Pr%C3%AAmios%20Torcida%20PU&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Carters",
+      "atual": 3,
+      "promo": false,
+      "detalhesPromo": [
+        "3 ponto(s) por R$ 1"
+      ],
+      "anterior": 3,
+      "imageUrl": "https://ui-avatars.com/api/?name=Carters&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Civitatis",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Civitatis&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Hotel Nacional",
+      "atual": 1,
+      "promo": false,
+      "detalhesPromo": [
+        "1 ponto(s) por R$ 1"
+      ],
+      "anterior": 1,
+      "imageUrl": "https://ui-avatars.com/api/?name=Hotel%20Nacional&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    },
+    {
+      "loja": "Klubi Celular",
+      "atual": 50,
+      "promo": true,
+      "detalhesPromo": [
+        "50 ponto(s) por R$ 1 (eram 1 ponto(s))"
+      ],
+      "anterior": 50,
+      "imageUrl": "https://ui-avatars.com/api/?name=Klubi%20Celular&background=f3f4f6&color=111827&size=256&bold=true",
+      "partnerRulesUrl": "https://www.livelo.com.br/"
+    }
+  ]
+}
